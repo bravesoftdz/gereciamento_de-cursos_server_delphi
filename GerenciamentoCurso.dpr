@@ -12,7 +12,7 @@ uses
   Web.WebReq,
   Web.WebBroker,
   IdHTTPWebBrokerBridge,
-  MainController in 'MainController.pas',
+  uMainController in 'uMainController.pas',
   uMainWebModule in 'uMainWebModule.pas' {MainWebModule: TWebModule};
 
 {$R *.res}
